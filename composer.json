@@ -1,5 +1,5 @@
 {
-    "name": "waavi/translation",
+    "name": "alexamituca/translation",
     "description": "A Translation package for Laravel 5 with database and cache support",
     "keywords": [
         "waavi",
@@ -41,3 +41,4 @@
         "test": "vendor/bin/phpunit"
     }
 }
+
